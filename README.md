@@ -45,7 +45,7 @@ Monthly Trends (Line Chart) – Shows the fluctuation of accidents over time.
 
 Weather Impact (Bar Chart) – Analyzes how weather conditions influence accident frequency.
 
-Road Type Analysis (Bar Chart) – Displays which types of roads have the highest accident occurrences.
+Road Type Analysis (Treemaps) – Displays which types of roads have the highest accident occurrences.
 
 Accident Severity (Pie Chart) – Highlights the distribution of minor, serious, and fatal accidents.
 
